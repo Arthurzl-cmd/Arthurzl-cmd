@@ -1,16 +1,21 @@
-## Hi there 👋
+markdown
+# Olá, eu sou o Arthur! 👋
 
-<!--
-**Arthurzl-cmd/Arthurzl-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+- 🎓 Estudante do 3º ano do **Ensino Médio Técnico em Informática**.
+- 🚀 Atualmente focado em aprender **Lógica de Programação (Java)** e **Inglês**.
+- 🎯 Objetivo: Me tornar um desenvolvedor de software de alto nível e atuar no setor bancário/fintechs.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io)
+![Git](https://img.shields.io)
+![Markdown](https://img.shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Minha Jornada de Estudos
+- [ ] Inglês Extremo (Udemy) - Em progresso
+- [ ] Lógica de Programação com Java (Nélio Alves) - Em progresso
+- [ ] Formação ADS - (Previsão 2026)
+
+---
+📫 **Como me encontrar:**
+[LinkedIn](https://www.linkedin.com/in/arthur-s-b1b5883ab) | [arthuriphonexr@gmail.com]
